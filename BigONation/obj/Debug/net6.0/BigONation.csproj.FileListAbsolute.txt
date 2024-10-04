@@ -1,0 +1,14 @@
+C:\Users\Asiman\source\repos\BigONation\BigONation\bin\Debug\net6.0\BigONation.exe
+C:\Users\Asiman\source\repos\BigONation\BigONation\bin\Debug\net6.0\BigONation.deps.json
+C:\Users\Asiman\source\repos\BigONation\BigONation\bin\Debug\net6.0\BigONation.runtimeconfig.json
+C:\Users\Asiman\source\repos\BigONation\BigONation\bin\Debug\net6.0\BigONation.dll
+C:\Users\Asiman\source\repos\BigONation\BigONation\bin\Debug\net6.0\BigONation.pdb
+C:\Users\Asiman\source\repos\BigONation\BigONation\obj\Debug\net6.0\BigONation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asiman\source\repos\BigONation\BigONation\obj\Debug\net6.0\BigONation.AssemblyInfoInputs.cache
+C:\Users\Asiman\source\repos\BigONation\BigONation\obj\Debug\net6.0\BigONation.AssemblyInfo.cs
+C:\Users\Asiman\source\repos\BigONation\BigONation\obj\Debug\net6.0\BigONation.csproj.CoreCompileInputs.cache
+C:\Users\Asiman\source\repos\BigONation\BigONation\obj\Debug\net6.0\BigONation.dll
+C:\Users\Asiman\source\repos\BigONation\BigONation\obj\Debug\net6.0\refint\BigONation.dll
+C:\Users\Asiman\source\repos\BigONation\BigONation\obj\Debug\net6.0\BigONation.pdb
+C:\Users\Asiman\source\repos\BigONation\BigONation\obj\Debug\net6.0\BigONation.genruntimeconfig.cache
+C:\Users\Asiman\source\repos\BigONation\BigONation\obj\Debug\net6.0\ref\BigONation.dll
